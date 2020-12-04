@@ -2,8 +2,8 @@
    v2.0 | 20110126
    License: none (public domain)
 */
-/* @import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -56,13 +56,11 @@ html, body {
     height: 100%;
     font-family: 'Roboto', sans-serif;
 }
-
 h1, h2, h3, h4, h5 {
     font-size: 18px;
     margin-bottom: 15px;
     font-family: 'Rubik', sans-serif;
 }
-
 .navbar{
     display:flex;
     width: 950px;
@@ -72,7 +70,6 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 40px;
     margin-top:1%;
 }
-
 .navbar a {
     color:black;
     text-decoration: none;
@@ -164,8 +161,6 @@ p {
 .middle-content .boxes .box-10{
     background: dodgerblue;
 }
-
-
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
@@ -220,7 +215,6 @@ footer nav a {
 .about-middle-content h2{
     margin-top:3%;
 }
-
 .about-middle-content a{
     display: inline-block;
     text-decoration: none;
@@ -232,6 +226,7 @@ footer nav a {
 }
 .about-bottom{
     margin-bottom: 20px;
+    
 }
 .about-bottom-text{
     padding: 0 2%;
